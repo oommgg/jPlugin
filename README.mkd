@@ -1,0 +1,4 @@
+# jQuery plugin template
+
+    This is jQuery plugin template, please replace the PLUGIN_NAME into the name what you want to name.
+
